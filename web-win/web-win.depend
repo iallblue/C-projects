@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1489409645 source:d:\a-×ÀÃæ×ÊÁÏ\c\web-win\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<process.h>
+
