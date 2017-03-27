@@ -88,3 +88,11 @@ int atoi(char s[])
     return n;
 }
 ```
+
+###	C语言中的指针真是耐人寻味，真不是盖的
+***
+
+*	char *str;//指针
+*	char str[];//数组
+*	char str[100];//数组
+*	真是太容易搞混了
