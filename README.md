@@ -96,3 +96,5 @@ int atoi(char s[])
 *	char str[];//数组
 *	char str[100];//数组
 *	真是太容易搞混了
+*	int32_t 用`typedef long int32_t`
+
