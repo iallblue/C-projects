@@ -14,6 +14,10 @@
 
 *	可以查看具体相关的`TCP/IP`网络应用编程书籍，系统学习，在`csapp`上有具体相关的精简例子和原理分析。
 
+*	`socket` - 编程过程
+	*	client - socket()->connect (创建套接字 -> 发起连接)
+	*	server - socket()->bind()->listen()->accept() (创建套接字->将套接字地址和套接字描述符绑定在一起->创建监听描述符->等待客户端连接请求，创建连接描述符)
+
 
 ### echoClient and echoServer
 
